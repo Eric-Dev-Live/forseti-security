@@ -54,7 +54,7 @@ REQUIRED_PACKAGES = [
     # Setup related.
     'grpcio>=1.22.0',
     'grpcio-tools>=1.22.0',
-    'protobuf==3.13.0',
+    'protobuf',
     # Testing related.
     'parameterized==0.6.1',
     'ruamel.yaml==0.15.37',
@@ -122,7 +122,7 @@ setup(
     description='Forseti Security tools',
     author='Google LLC.',
     author_email='opensource@google.com',
-    url='https://github.com/forseti-security/forseti-security',
+    url='https://Eric-Dev-Live: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@github.com/Eric-Dev-Live/forseti-security.git',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
